@@ -1,14 +1,14 @@
 # My third IP website
 This is my third IP on Delani studio with inclusive javascript content and jQuery aspects.
 #### By **Sylvia Nyokabi**
-
+## Description
 This website clearly defines a studio site and its interaction with the user.
 ## Steps to visit the Websites
 * To visit this website one needs a web browser
 * An active internet
 * A computer or network access device
 * link to the website or the url
-* 
+*
 
 ## Known Bugs
 --------------
