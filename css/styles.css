@@ -1,7 +1,8 @@
-.head{
-    height:auto;
-    color: white;
-    text-align: center;
+.head {
+  height: auto;
+  color: white;
+  text-align: center;
+
 }
 h1,
 h2,
@@ -15,62 +16,72 @@ h6 {
 p {
   font-family: "Kaushan", "Script";
 }
+/* #logo {
+  display: block;
+  float: right;
+  padding-left: 50%;
+  background-color: grey;
+  place-content: center;
+} */
+
 #first {
-    clear: both;
-    background-image: url("../assets/backgrounds/h_img.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-  }
-  .info {
-    text-align: center;
-    margin-top: 5%;
-  }
-  .services {
-    background-image: url("../images/backgrounds/s_image.jpg");
-    height: 200%;
-    text-align: center;
-    color: white;
-    margin-top: 5%;
-    background-size: cover;
-  }
-  .mgn {
-    padding-top: 10%;
-    padding: 10%;
-  }
-  
-  .perform {
-    text-align: center;
-    padding-top: 5%;
-  }
-  
-  .row {
-    padding-top: 3%;
-  }
-  .portfolio {
-    text-align: center;
-    justify-content: space-around;
-    margin-top: 5%;
-  }
-  .contact {
-    background-image: url("../images/backgrounds/c_image.jpg");
-    text-align: center;
-    margin-top: 5%;
-    background-size: cover;
-    color: white;
-  }
-  
-  .form-inline {
-    padding-left: 30%;
-  }
-  
-  .write {
-    padding-top: 50%;
-    color: wheat;
-    font-size: x-large;
-    font-weight: 800;
-  }
-  #row {
+  clear: both;
+  background-image: url("../images/backgrounds/h_img.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.info {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.services {
+  background-image: url("../images/backgrounds/s_image.jpg");
+  height: 200%;
+  text-align: center;
+  color: white;
+  margin-top: 5%;
+  background-size: cover;
+}
+.mgn {
+  padding-top: 10%;
+  padding: 10%;
+}
+
+.perform {
+  text-align: center;
+  padding-top: 5%;
+}
+
+.row {
+  padding-top: 3%;
+}
+.portfolio {
+  text-align: center;
+  justify-content: space-around;
+  margin-top: 5%;
+}
+.contact {
+  background-image: url("../images/backgrounds/c_image.jpg");
+  text-align: center;
+  margin-top: 5%;
+  background-size: cover;
+  color: white;
+}
+
+.form-inline {
+  padding-left: 30%;
+}
+
+.write {
+  padding-top: 50%;
+  color: wheat;
+  font-size: x-large;
+  font-weight: 800;
+}
+
+#row {
   text-align: center;
 }
 
