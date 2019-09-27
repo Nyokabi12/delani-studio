@@ -26,3 +26,10 @@ p {
     text-align: center;
     margin-top: 5%;
   }
+  .services {
+    background-image: url("../images/backgrounds/s_image.jpg");
+    height: 200%;
+    text-align: center;
+    color: white;
+    margin-top: 5%;
+    background-size: cover;
