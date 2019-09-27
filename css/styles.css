@@ -15,3 +15,14 @@ h6 {
 p {
   font-family: "Kaushan", "Script";
 }
+#first {
+    clear: both;
+    background-image: url("../assets/backgrounds/h_img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .info {
+    text-align: center;
+    margin-top: 5%;
+  }
