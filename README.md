@@ -8,14 +8,15 @@ This website clearly defines a studio site and its interaction with the user.
 * An active internet
 * A computer or network access device
 * link to the website or the url
-*
+* https://nyokabi12.github.io/delani-studio/
 
 ## Known Bugs
 --------------
 ## Technologies/Languages Used
-html-create and develop the actual webpage content css - Extensively used inorder to customize and restyle the webpages as a whole. markdown - Extensively create a detailed readme Javascript and jQuery - Largely used for the interaction of the page with the user.
+html-create and develop the actual webpage content css - Extensively used inorder to customize and restyle the webpages as a whole. markdown - Extensively create a detailed readme Javascript and jQuery - Largely used for the interaction of the page with the user.Bootsrap.css to add some effects.
+
 ## Support and contact details
-incase you are not able to view certain applications or parts of the website feel free to submit an email to sylvianyokabi536@gmail.com
+add your details in the contact and it will lead you to my mailchimp account.
 
 ### License
 MIT
